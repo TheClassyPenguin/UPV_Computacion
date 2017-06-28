@@ -1,0 +1,27 @@
+SAR proyecto
+no sets 
+no external libraries but nltk
+implementar mergeAnd
+
+extras: AND OR NOT (boolean logic??)
+stopwords + stemming (consultas+content)
+Posting lists posicionales ("comillas")
+4 "headline:" "text:" "category:" "date:"
+
+
+"potato sfd" AND date: 1
+
+
+	Dicts:
+		title
+			k,v : word in title, list[FrequencyTotal,tuple(FreqPerDoc,DocID,[pos,pos,pos]),tuple(FreqPerDoc,DocID,[aparitions])]
+		text
+			k,v : word in text, list[FrequencyTotal,tuple(FreqPerDoc,DocID,[pos,pos,pos]),tuple(FreqPerDoc,DocID,[aparitions])]
+		category
+			k,v : category in category, list[FrequencyTotal,tuple(FreqPerDoc,DocID,[pos,pos,pos]),tuple(FreqPerDoc,DocID,[aparitions])]
+		date
+			k,v : date, list[FrequencyTotal,tuple(FreqPerDoc,DocID,[pos,pos,pos]),tuple(FreqPerDoc,DocID,[aparitions])]
+
+Indexer parameters(PathToCollection, IndexFile)
+
+Searcher parameters(IndexFile,stemming?,stopwords?)

@@ -1,0 +1,26 @@
+list=[100,200,200,2000,1000,700,400,300,1500,3000,4000,2500,2000,500]
+posibilities=[]
+i=0
+objective=2500
+for counterDec in range(16384):
+    counterBin = bin(counterDec)
+    binList = str(str(counterBin)[2:])
+    index=0
+    suma=0
+    combo=[]
+    for c in binList:
+        if(c==str(1)):
+            suma=suma+list[index]
+            combo.append(str(index))
+            if(suma>objective):
+                break
+        index+=1
+    if(suma==objective):
+        if('0' in combo):
+            if('2' in combo):
+                if('7' in combo):
+                    if('6' in combo):
+                        if('8' not in combo):
+                            posibilities.append(combo)
+    i+=1
+print(posibilities)

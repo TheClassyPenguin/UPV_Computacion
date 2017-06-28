@@ -1,0 +1,1977 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.2932]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\lhernand\Desktop\JGomas_w32_Data\Managed\Boo.Lang.dll (this message is harmless)
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found
+GUI button pressed...169.254.127.255
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+STARTING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+WELCOME MESSAGE: JGOMAS Render Engine Server v. 0.1.0, Thu Feb 04 15:46:13 CET 2016
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+CONNECTION MESSAGE: COM Server: Connection Accepted
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+MAP RECEIVED: map_04
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Bases 20 28 22 30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Connected to JGOMAS ACC
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Post cambio
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Es A8 y  A8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,128,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154630667</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,128,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,136,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154631217</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,136,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,136,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154631467</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,136,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,136,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154631667</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,136,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,144,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154631833</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,144,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154632017</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,144,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154632283</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,152,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154632500</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,152,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154632967</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,152,224
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154633216</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,224)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,152,232
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154633401</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,232)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154635367</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154644750</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,120,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154645733</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,120,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,120,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154646383</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,120,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,128,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154646666</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,128,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,136,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154646832</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,136,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,144,192
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647000</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,192)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,152,192
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647149</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,192)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,160,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647299</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,168,200
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647449</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,168,200)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,168,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647582</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,168,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,168,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647716</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,168,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,176,208
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154647882</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,208)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,176,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154648032</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,176,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154648166</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,176,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154648634</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,176,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154648882</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,184,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154650099</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,184,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,184,224
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154651382</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,184,224)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154652432</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154653899</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154655115</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154655416</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154655632</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154655833</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154656016</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>339</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154656216</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(shot)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,144,232
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154708229</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,232)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,144,240
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154708413</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,144,240)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,152,240
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154708596</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,240)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,152,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154708763</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,152,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,160,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154708912</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,160,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709064</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,160,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709229</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,160,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709396</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,160,256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709563</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,160,256)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,168,256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709696</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,168,256)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,176,256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154709862</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,176,256)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,184,256
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154710029</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,184,256)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,192,248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154710196</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,192,248)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,200,240
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154710346</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,200,240)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,208,232
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154710512</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,208,232)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+J move,208,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154712229</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,208,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+L move,208,216
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+POST http://169.254.127.255/acc HTTP/1.1
+Cache-Control: no-cache
+Mime-Version: 1.0
+Host: 169.254.127.255:7778
+Content-Type: multipart/mixed ; boundary="a36869921a26b9d812878a42b8fc2cd"
+Content-Length: 800
+Connection: Keep-Alive
+
+This is not part of the MIME multipart encoded message.
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/xml
+
+<?xml version="1.0"?>
+<envelope><params index="1"><to><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></to><from><agent-identifier><name>Unity@169.254.127.255:1099/JADE</name> <addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></from> <payload-length>347</payload-length><acl-representation>fipa.acl.rep.string.std</acl-representation><date>20160204Z154713580</date>+<intended-receiver><agent-identifier><name>A8@169.254.127.255:1099/JADE</name><addresses><url>http://169.254.127.255:7778/acc</url></addresses></agent-identifier></intended-receiver></params></envelope>
+--a36869921a26b9d812878a42b8fc2cd
+Content-Type: application/text
+
+(INFORM
+ :sender ( agent-identifier :name "Unity@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc ))
+ :receiver (set ( agent-identifier :name "A8@169.254.127.255:1099/JADE" :addresses (sequence http://169.254.127.255:7778/acc )) )
+ :content "order(move,208,216)"
+ :language AgentSpeak
+ :conversation-id ORDER
+)
+--a36869921a26b9d812878a42b8fc2cd--
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+FROM THREAD: going to close de connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+CONNECTION MESSAGE: COM Server: Connection Closed
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Close connection CControl
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Estoy en OnDestroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

@@ -1,0 +1,966 @@
+	$	642	{'305': 1, 'it': 10, 'this': 12, 'i': 68, 'bust': 1, 'fucking': 1, 'repeat': 7, 'hey': 5, 'chorus': 25, 'if': 5, 'click': 1, 'man': 5, '1': 1, 'the': 7, 'but': 12, 'who': 1, 'cuz': 7, 'only': 1, 'get': 10, 'that': 11, 'cock': 1, 'break': 1, 'everybody': 3, 'everything': 5, 'everywhere': 1, 'every': 4, 'from': 2, 'mark': 1, 'p': 2, 'me': 3, 'papo': 1, 'uncle': 1, 'he': 1, 'how': 2, 'little': 1, 'pitbull': 7, 'db': 2, 'lil': 2, 'ready': 1, 'we': 26, 'then': 2, 'let': 7, 'kick': 1, 'since': 1, 'fuck': 7, 'follow': 1, 'all': 6, 'wanna': 1, 'to': 3, 'last': 1, 'pit': 4, 'haters': 1, 'culo': 2, 'feat': 3, 'intro': 2, 'yeah': 3, 'right': 1, 'dominicana': 1, 'and': 26, 'hook': 3, 'ahora': 1, 'esta': 3, 'que': 4, 'has': 3, 'verse': 9, 'pull': 3, 'here': 1, 'feel': 2, 'mami': 5, 'or': 5, 'put': 2, 'cause': 6, 'esa': 2, 'vesre': 1, 'lo': 1, 'multiply': 1, 'off': 1, 'with': 5, 'paramedics': 1, 'be': 1, 'outro': 1, 'shake': 1, 'baby': 13, 'shorty': 5, 'ima': 3, 'u': 1, 'im': 6, 'wait': 1, 'don': 1, 'suga': 2, 'now': 7, 'mammi': 2, 'toma': 1, 'oye': 1, 'what': 6, 'muevelo': 1, 'si': 3, 'abre': 1, 'until': 1, 'send': 1, 'once': 1, 'straight': 2, 'j': 1, '$': 1, 'kelly': 1, 'hah': 4, 'just': 7, 'go': 2, 'your': 1, 'when': 8, 'for': 3, 'you': 9, 'quitate': 3, 'everytime': 1, 'would': 7, 'touch': 1, 'ccheck': 4, 'nail': 1, 'hair': 1, 'thats': 1, 'girl': 4, 'never': 1, 'youve': 1, 'tu': 1, 'tell': 2, 'nothing': 1, 'ohh': 6, 'st': 2, 'bitch': 2, 'gimme': 1, 'ive': 1, 'so': 10, 'ill': 1, 'excuse': 1, 'most': 1, 'imma': 3, 'where': 5, 'ohhh': 1, 'dirty': 1, 'bun': 1, 'h': 1, 'my': 2, 'miami': 5, 'rap': 1, 'album': 1, 'y': 9, 'cross': 1, 'word': 1, 'why': 1, 'they': 3, 'like': 2, 'yo': 1, 'guns': 4, '8': 1, 'might': 1, '2000': 1, 'vicious': 1, 'niggaz': 1, 'serve': 1, 'these': 1, 'seven': 1, 'm': 1, 'candy': 1, 'doing': 1, 'dammit': 5, 'partna': 1, 'take': 1, 'because': 3, 'yall': 6, 'cash': 1, 'out': 1, 'hit': 2, 'give': 1, 'cubo': 2, 'di': 1, 'accept': 1, 'no': 1, 'oh': 1, 'at': 1, 'someones': 1, 'didn': 1, 'not': 1, 'ya': 3, 'boy': 1, 'back': 1, 'blakah': 1, 'homie': 1, 'however': 1, 'aowoo': 1, 'ears': 1, 'run': 1, 'in': 1, 'shut': 1, 'haha': 1}
+	0	1	{'5': 1}
+	1	4	{'in': 1, 'pitbull': 2, '$': 1}
+	106	1	{'park': 1}
+	12x	1	{'$': 1}
+	16	1	{'in': 1}
+	2	3	{'bun': 1, '$': 1, 'cubo': 1}
+	2000	1	{'heltah': 1}
+	2x	12	{'$': 12}
+	3	3	{'pitbull': 2, '0': 1}
+	305	3	{'anthem': 1, 'till': 2}
+	365	1	{'$': 1}
+	3x	1	{'$': 1}
+	4	1	{'5': 1}
+	4x	2	{'$': 2}
+	5	2	{'it': 1, '$': 1}
+	50	1	{'takin': 1}
+	8	1	{'g': 1}
+	9	3	{'$': 1, 'shots': 1, 'broads': 1}
+	a	44	{'nigga': 1, 'pool': 1, 'bunch': 1, 'monster': 3, 'game': 2, 'notch': 1, 'big': 1, 'broad': 1, 'couple': 3, 'lady': 1, 'robbery': 1, 'night': 2, 'little': 2, 'freaks': 1, 'freak': 1, 'man': 1, 'lot': 2, 'hot': 2, 'cloudy': 1, 'brand': 1, 'metal': 1, 'soldier': 1, 'm': 2, 'disguise': 1, 'treat': 1, 'g': 1, 'new': 1, 'few': 1, 'fuck': 1, 'pro': 2, 'fact': 1, 'major': 1, 'casket': 1}
+	about	23	{'now': 1, '$': 2, 'the': 1, 'it': 1, 'what': 1, 'me': 1, 'three': 1, 'yo': 3, 'your': 2, 'shit': 1, 'slanging': 1, 'that': 1, 'to': 3, 'ya': 4}
+	abre	1	{'las': 1}
+	accept	1	{'getting': 1}
+	act	1	{'like': 1}
+	advantage	1	{'$': 1}
+	advice	1	{'don': 1}
+	again	3	{'$': 2, 'my': 1}
+	ah	1	{'break': 1}
+	ahead	3	{'please': 1, 'and': 1, 'keep': 1}
+	ahora	1	{'que': 1}
+	aim	1	{'$': 1}
+	ain	5	{'t': 5}
+	aint	10	{'gon': 1, 'gotta': 6, 'here': 1, 'no': 1, 'on': 1}
+	album	1	{'shop': 1}
+	all	35	{'$': 5, 'right': 1, 'these': 3, 'the': 4, 'my': 5, 'you': 2, 'now': 1, 'i': 1, 'look': 1, 'heard': 1, 'call': 1, 'really': 5, 'thought': 1, 'rap': 1, 'gonna': 1, 'ya': 1, 'on': 1}
+	always	2	{'pull': 1, 'some': 1}
+	amateur	1	{'ass': 1}
+	ambulance	1	{'$': 1}
+	amor	1	{'$': 1}
+	an	6	{'even': 1, 'animal': 1, 'understatement': 1, 'opinion': 1, 'undercover': 1, 'ambulance': 1}
+	and	70	{'most': 1, 'why': 1, 'you': 4, 'talk': 1, 'thighs': 1, 'j': 1, 'when': 1, 'if': 5, 'just': 1, 'movin': 1, 'im': 1, 'get': 1, 'relax': 1, 'let': 1, 'at': 1, 'loose': 1, 'it': 2, 'take': 1, 'i': 9, 'lick': 1, 'give': 1, 'slow': 1, 'more': 1, 'now': 1, 'a': 1, 'roll': 2, 'backin': 1, 'blow': 4, 'think': 2, 'fiends': 1, 'cadillacs': 1, 'killers': 1, 'move': 1, 'donks': 1, 'leather': 1, 'crooked': 1, 'niggaz': 1, 'lived': 1, 'stockade': 1, 'watch': 1, 'see': 1, 'pain': 1, 'squeezed': 1, 'haters': 1, 'for': 1, 'that': 2, 'aim': 1, 'uncle': 1}
+	andd	1	{'$': 1}
+	animal	1	{'$': 1}
+	anthem	1	{'$': 1}
+	any	1	{'nigga': 1}
+	anybody	1	{'thinks': 1}
+	anything	1	{'that': 1}
+	aowoo	1	{'$': 1}
+	are	3	{'obsessed': 1, 'you': 1, 'who': 1}
+	around	1	{'me': 1}
+	art	1	{'of': 1}
+	as	5	{'live': 1, '106': 1, 'soon': 1, 'these': 1, 'well': 1}
+	asking	1	{'me': 1}
+	ass	13	{'$': 3, 'and': 1, 'til': 2, 'on': 6, 'niggaz': 1}
+	at	8	{'me': 2, 'the': 2, 'these': 2, 'late': 1, 'any': 1}
+	away	1	{'with': 1}
+	b	5	{'b': 1, 'to': 1, '$': 3}
+	baby	24	{'yeah': 1, 'you': 7, 'over': 1, 'just': 1, 'im': 1, '$': 4, 'dale': 1, 'let': 1, 'i': 5, 'and': 1, 'honestly': 1}
+	back	11	{'go': 1, 'and': 1, 'never': 1, '$': 5, 'to': 1, 'guerillas': 1, 'em': 1}
+	backin	1	{'it': 1}
+	bacon	1	{'here': 1}
+	bar	2	{'get': 1, 'feelin': 1}
+	basktetball	1	{'if': 1}
+	be	28	{'down': 1, 'careful': 2, 'is': 1, 'off': 1, 'wearin': 1, 'carryin': 1, 'easy': 1, 'mad': 1, 'a': 2, 'calling': 1, 'the': 2, 'about': 1, 'that': 2, 'everything': 1, 'no': 2, 'takin': 1, 'filled': 2, 'exact': 1, 'dead': 1, 'done': 1, '$': 1, 'seen': 1}
+	because	3	{'i': 2, 'what': 1}
+	bed	1	{'last': 1}
+	beef	1	{'then': 1}
+	been	5	{'on': 1, 'done': 1, 'fucked': 1, 'sprung': 1, 'hatin': 1}
+	beer	1	{'we': 1}
+	before	1	{'$': 1}
+	believe	3	{'me': 2, 'in': 1}
+	below	2	{'the': 1, 'my': 1}
+	better	5	{'$': 2, 'ohh': 1, 'get': 1, 'follow': 1}
+	big	1	{'ol': 1}
+	biggie	1	{'told': 1}
+	bitch	10	{'every': 1, 'i': 3, 'what': 2, 'this': 1, 'let': 1, '$': 1, 'now': 1}
+	bitches	4	{'$': 2, 'wanna': 1, 'trippin': 1}
+	bite	1	{'me': 1}
+	blacks	1	{'$': 1}
+	blakah	2	{'that': 1, 'meng': 1}
+	blind	2	{'$': 1, 'to': 1}
+	blink	1	{'at': 1}
+	block	1	{'$': 1}
+	blood	1	{'with': 1}
+	blow	9	{'$': 2, 'just': 1, 'my': 1, 'dirty': 1, 'em': 4}
+	blue	3	{'skies': 2, 'eyes': 1}
+	blues	1	{'$': 1}
+	body	4	{'next': 1, 'parts': 1, 'body': 1, 'listen': 1}
+	book	1	{'$': 1}
+	booty	1	{'cubana': 1}
+	boricua	1	{'$': 1}
+	both	3	{'know': 1, 'popping': 1, 'dance': 1}
+	bottom	3	{'to': 1, 'm': 1, 'are': 1}
+	bounce	1	{'$': 1}
+	bounced	1	{'to': 1}
+	bouncin	1	{'from': 1}
+	bout	3	{'these': 1, 'families': 1, 'ya': 1}
+	box	1	{'chevys': 1}
+	boy	3	{'ima': 2, 'but': 1}
+	boys	4	{'think': 1, 'below': 1, 'from': 1, 'round': 1}
+	brand	1	{'new': 1}
+	bread	2	{'with': 1, '$': 1}
+	break	3	{'bread': 1, '$': 1, 'it': 1}
+	breath	1	{'$': 1}
+	brick	1	{'flipping': 1}
+	bricks	1	{'$': 1}
+	bridge	1	{'and': 1}
+	bring	1	{'it': 1}
+	broad	3	{'let': 1, 'to': 1, '$': 1}
+	broads	1	{'takin': 1}
+	buiding	1	{'my': 1}
+	bullets	1	{'spit': 1}
+	bump	1	{'heads': 1}
+	bun	3	{'b': 3}
+	bunch	1	{'of': 1}
+	burning	1	{'up': 1}
+	bust	2	{'five': 1, 'heads': 1}
+	busta	1	{'s': 1}
+	bustas	1	{'and': 1}
+	buster	2	{'douglas': 2}
+	but	18	{'for': 1, 'a': 1, 'fuck': 1, 'it': 2, 'i': 5, 'you': 1, 'its': 2, 'bitch': 1, 'dubs': 1, 'me': 1, 'that': 1, 'when': 1}
+	by	2	{'the': 2}
+	ca	1	{'come': 1}
+	cadillacs	1	{'chevys': 1}
+	cage	1	{'baby': 1}
+	caliente	1	{'$': 1}
+	call	6	{'me': 1, 'ur': 1, 'em': 3, 'box': 1}
+	called	1	{'the': 1}
+	calling	1	{'me': 1}
+	can	25	{'t': 12, 'hate': 1, 'tell': 5, 'discuss': 1, 'fulfill': 1, 'get': 1, 'cum': 1, 'take': 1, 'spit': 1, 'both': 1}
+	candy	1	{'paint': 1}
+	cant	1	{'wait': 1}
+	car	1	{'$': 1}
+	care	16	{'if': 1, 'bout': 1, 'about': 12, 'what': 1, 'who': 1}
+	careful	2	{'when': 2}
+	cares	1	{'if': 1}
+	carryin	1	{'her': 1}
+	cash	1	{'rules': 1}
+	casket	1	{'dawg': 1}
+	catch	1	{'my': 1}
+	cats	1	{'mix': 1}
+	caught	1	{'up': 1}
+	cause	9	{'they': 2, 'it': 1, 'the': 1, 'when': 1, 'i': 2, 'that': 1, 'we': 1}
+	ccheck	4	{'$': 4}
+	cha	2	{'waitin': 2}
+	chain	2	{'$': 1, 'meng': 1}
+	charles	1	{'dawg': 1}
+	check	2	{'this': 2}
+	chevys	3	{'cut': 1, '$': 2}
+	chica	3	{'tienes': 3}
+	chico	5	{'pitbull': 1, 's': 2, 'got': 1, 'that': 1}
+	chicos	2	{'all': 1, 'i': 1}
+	chin	1	{'$': 1}
+	chips	1	{'$': 1}
+	chiquita	3	{'pero': 3}
+	chop	1	{'it': 1}
+	chopper	2	{'meng': 2}
+	choppers	1	{'$': 1}
+	chorus	25	{'repeat': 2, '2x': 2, '$': 16, 'x2': 2, 'x4': 1, 'rp': 2}
+	chu	1	{'killed': 1}
+	city	4	{'know': 1, 'we': 1, 'it': 1, 's': 1}
+	clack	1	{'$': 1}
+	clap	1	{'$': 1}
+	clapping	1	{'ya': 1}
+	clean	3	{'dogg': 3}
+	clear	2	{'yeah': 1, 'and': 1}
+	click	13	{'for': 2, '$': 5, 'with': 1, 'click': 3, 'is': 1, 'clack': 1}
+	clique	1	{'$': 1}
+	closely	2	{'$': 2}
+	clothes	2	{'$': 1, 'and': 1}
+	cloudy	1	{'piss': 1}
+	club	4	{'walk': 1, '$': 1, 'with': 1, 'the': 1}
+	co	2	{'co': 1, 'coming': 1}
+	coached	1	{'me': 1}
+	cocaine	1	{'cooking': 1}
+	cock	1	{'back': 1}
+	coke	1	{'and': 1}
+	colombiana	1	{'boricua': 1}
+	coma	3	{'toda': 3}
+	come	2	{'see': 1, 'here': 1}
+	coming	1	{'running': 1}
+	como	1	{'$': 1}
+	connects	1	{'$': 1}
+	cook	1	{'it': 1}
+	cooked	1	{'$': 1}
+	cooking	1	{'brick': 1}
+	cop	1	{'and': 1}
+	coppers	1	{'and': 1}
+	cops	1	{'$': 1}
+	cost	1	{'ya': 1}
+	could	4	{'smell': 1, 'taste': 1, 'these': 1, 'give': 1}
+	couldn	1	{'t': 1}
+	county	1	{'tgk': 1}
+	couple	3	{'more': 1, 'of': 2}
+	crack	2	{'game': 1, '$': 1}
+	crazy	2	{'don': 1, 'praising': 1}
+	cream	1	{'in': 1}
+	created	1	{'a': 1}
+	crew	2	{'$': 2}
+	crip	1	{'and': 1}
+	cris	1	{'$': 1}
+	crooked	3	{'coppers': 1, 'doctors': 1, 'bitches': 1}
+	cross	2	{'t': 1, 'the': 1}
+	cry	1	{'for': 1}
+	cuban	2	{'has': 1, 'doesn': 1}
+	cubana	1	{'mexicana': 1}
+	cubo	3	{'$': 2, 'don': 1}
+	culo	14	{'$': 13, 'hey': 1}
+	cum	2	{'til': 1, 'no': 1}
+	cut	3	{'it': 1, 'on': 1, '$': 1}
+	cutthroat	1	{'and': 1}
+	cuz	12	{'i': 6, 'the': 3, 'ive': 1, 'imma': 1, 'when': 1}
+	d	13	{'d': 6, 'dammit': 6, 'rather': 1}
+	da	1	{'bottom': 1}
+	dale	3	{'toma': 1, '$': 2}
+	dammit	15	{'man': 14, '$': 1}
+	damn	2	{'$': 2}
+	dance	3	{'dirty': 1, '$': 1, 'with': 1}
+	danceflo	1	{'$': 1}
+	dangerous	1	{'$': 1}
+	dash	1	{'$': 1}
+	dawg	4	{'i': 1, '$': 2, 'who': 1}
+	day	1	{'that': 1}
+	db	4	{'them': 1, 'we': 1, 'don': 1, 'lil': 1}
+	dead	1	{'$': 1}
+	deadly	1	{'whoo': 1}
+	deltas	1	{'$': 1}
+	dem	1	{'boys': 1}
+	demi	1	{'keep': 1}
+	devil	1	{'dawg': 1}
+	di	2	{'le': 2}
+	did	2	{'he': 1, '$': 1}
+	didn	2	{'t': 2}
+	die	8	{'for': 3, '$': 3, '3': 1, 'then': 1}
+	dirty	25	{'dance': 2, '$': 20, 'dirty': 1, 'where': 1, 'we': 1}
+	discreet	1	{'$': 1}
+	discuss	1	{'everything': 1}
+	disguise	1	{'$': 1}
+	do	29	{'or': 1, '$': 6, 'in': 1, 'that': 1, 'is': 7, 'baby': 1, 'me': 6, 'whats': 1, 'what': 1, 'move': 1, 'don': 1, 'anything': 1, 'to': 1}
+	doctors	1	{'$': 1}
+	doesn	1	{'t': 1}
+	dogg	4	{'demi': 1, 'we': 2, 'they': 1}
+	doing	1	{'time': 1}
+	dominicana	1	{'if': 1}
+	don	29	{'t': 29}
+	done	5	{'some': 1, 'coached': 1, 'get': 1, '$': 1, 'i': 1}
+	donks	1	{'some': 1}
+	dont	1	{'know': 1}
+	door	2	{'run': 1, '$': 1}
+	dot	1	{'i': 1}
+	double	1	{'the': 1}
+	douglas	2	{'$': 2}
+	down	6	{'$': 3, 'here': 2, 'it': 1}
+	dreams	2	{'or': 1, '$': 1}
+	drinks	4	{'then': 1, 'i': 1, '$': 1, 'think': 1}
+	drop	4	{'the': 1, 'it': 3}
+	dubs	1	{'or': 1}
+	due	1	{'time': 1}
+	duece	1	{'seven': 1}
+	duh	2	{'huh': 2}
+	dumb	1	{'things': 1}
+	e	2	{'but': 1, 'and': 1}
+	ear	1	{'talking': 1}
+	ears	1	{'open': 1}
+	easy	1	{'go': 1}
+	eat	2	{'yo': 2}
+	ebola	1	{'$': 1}
+	ecstasy	1	{'$': 1}
+	eeeeeeeyooooouuu	1	{'$': 1}
+	el	3	{'favor': 3}
+	em	44	{'i': 1, '$': 2, 'and': 4, 'how': 1, 'man': 1, 'back': 1, 'with': 1, 'like': 1, 'roll': 3, 'smoke': 3, 'dirty': 6, 'if': 3, 'for': 1, 'verts': 1, 'street': 1, 'choppers': 1, 'in': 2, 'goin': 1, 'from': 2, 'up': 6, 'spraying': 1, 'chopper': 1}
+	end	1	{'up': 1}
+	enterita	3	{'tiene': 3}
+	equipped	1	{'$': 1}
+	esa	3	{'hevita': 3}
+	esta	9	{'enterita': 3, 'tan': 6}
+	estas	1	{'caliente': 1}
+	even	2	{'know': 1, 'exchange': 1}
+	every	7	{'fiend': 1, 'foe': 1, 'bitch': 1, 'hoe': 1, 'other': 1, 'every': 1, 'body': 1}
+	everybody	4	{'knows': 2, 'in': 2}
+	everything	10	{'that': 2, 'you': 1, '$': 1, 'thats': 1, 'we': 3, 'go': 1, 'around': 1}
+	everytime	1	{'i': 1}
+	everywhere	1	{'that': 1}
+	exact	1	{'$': 1}
+	exactly	3	{'you': 1, 'what': 2}
+	exchange	1	{'$': 1}
+	excuse	2	{'me': 2}
+	explodeee	1	{'$': 1}
+	explore	1	{'$': 1}
+	extacyy	1	{'yeahh': 1}
+	extra	1	{'man': 1}
+	eyes	4	{'rollin': 1, '$': 2, 'and': 1}
+	facing	1	{'my': 1}
+	fact	2	{'that': 1, 'not': 1}
+	fail	1	{'$': 1}
+	families	1	{'and': 1}
+	fantasies	1	{'so': 1}
+	fantasys	3	{'$': 3}
+	fast	1	{'and': 1}
+	favor	3	{'y': 3}
+	fear	1	{'$': 1}
+	feat	3	{'$': 3}
+	fed	1	{'up': 1}
+	feel	8	{'the': 2, 'me': 3, 'her': 1, 'ya': 1, 'it': 1}
+	feelin	3	{'crazy': 1, 'a': 1, 'like': 1}
+	fell	1	{'is': 1}
+	few	1	{'steps': 1}
+	fiend	1	{'every': 1}
+	fiends	1	{'kill': 1}
+	figures	1	{'$': 1}
+	filled	3	{'wit': 1, 'with': 2}
+	fine	1	{'head': 1}
+	finish	1	{'tonight': 1}
+	finished	1	{'$': 1}
+	finna	1	{'prove': 1}
+	fire	1	{'$': 1}
+	first	1	{'latin': 1}
+	five	2	{'for': 1, '$': 1}
+	flip	4	{'andd': 1, 'it': 2, 'bricks': 1}
+	flipping	1	{'bitches': 1}
+	floor	7	{'$': 6, 'rp': 1}
+	flow	1	{'$': 1}
+	fo	3	{'keeps': 1, 'fo': 1, 'that': 1}
+	foe	1	{'$': 1}
+	fold	1	{'up': 1}
+	follow	5	{'me': 1, 'the': 2, 'threw': 1, 'you': 1}
+	for	36	{'em': 4, 'my': 7, 'the': 1, 'pit': 1, 'war': 1, 'no': 1, 'an': 1, 'r': 1, '$': 3, 'some': 1, 'ya': 3, 'a': 1, 'too': 1, 'yo': 1, 'lies': 1, 'peter': 1, 'figures': 1, 'everybody': 1, 'those': 1, 'all': 1, 'that': 1, 'whatever': 1, 'this': 1}
+	four	1	{'seven': 1}
+	freak	2	{'a': 1, 'just': 1}
+	freaks	2	{'technique': 1, 'be': 1}
+	freaky	11	{'girl': 1, 'baby': 1, 'freaky': 4, '$': 5}
+	freind	1	{'$': 1}
+	from	13	{'the': 9, 'da': 1, 'head': 1, 'broad': 1, 'wall': 1}
+	front	10	{'front': 4, '$': 2, 'if': 4}
+	fry	1	{'em': 1}
+	fuck	28	{'this': 1, 'it': 1, 'em': 1, 'like': 1, '$': 1, 'with': 19, 'wit': 1, 'up': 1, 'about': 1, 'down': 1}
+	fucked	2	{'up': 1, 'but': 1}
+	fucking	1	{'die': 1}
+	fucks	1	{'gon': 1}
+	fufill	3	{'my': 3}
+	fulfill	1	{'fantasies': 1}
+	fully	1	{'prepared': 1}
+	fun	1	{'if': 1}
+	g	2	{'of': 1, 's': 1}
+	game	12	{'is': 3, 'closely': 1, '$': 5, 'eeeeeeeyooooouuu': 1, 'crack': 1, 'cut': 1}
+	games	2	{'i': 1, 'been': 1}
+	get	36	{'it': 5, 'drinks': 1, 'in': 1, 'your': 7, 'going': 1, 'freaky': 1, 'nasty': 1, 'away': 1, 'all': 1, 'to': 1, 'you': 1, 'on': 1, 'the': 1, 'ready': 3, 'lost': 1, 'taken': 1, 'pulled': 1, 'em': 2, 'hit': 1, 'chu': 1, 'just': 1, 'that': 1, 'hauld': 1}
+	getting	3	{'kinda': 1, 'rich': 1, 'over': 1}
+	gimme	1	{'the': 1}
+	girl	6	{'$': 2, 'roll': 1, 'i': 2, 'you': 1}
+	girls	1	{'$': 1}
+	give	9	{'you': 2, 'me': 3, 'it': 3, 'a': 1}
+	glass	1	{'off': 1}
+	glock	1	{'$': 1}
+	go	21	{'click': 1, 'to': 1, '$': 8, 'let': 3, 'colombiana': 1, 'ahead': 3, 'como': 1, 'make': 1, 'down': 1, 'rr': 1}
+	god	2	{'damn': 2}
+	goes	2	{'$': 2}
+	goin	1	{'to': 1}
+	going	2	{'dale': 1, 'crazy': 1}
+	gon	9	{'fail': 1, 'take': 2, 'stop': 1, 'be': 1, 'help': 1, 'spit': 2, 'follow': 1}
+	gonna	4	{'be': 2, 'see': 1, 'get': 1}
+	good	1	{'$': 1}
+	got	24	{'it': 2, 'a': 2, 'time': 1, 'what': 1, 'the': 2, 'me': 1, 'room': 1, 'her': 1, 'some': 2, 'those': 1, 'my': 1, 'to': 1, 'like': 1, 'no': 1, 'more': 1, 'them': 4, 'lil': 1}
+	gotchu	3	{'i': 3}
+	gotta	10	{'get': 1, 'front': 6, 'do': 2, 'keep': 1}
+	grabs	1	{'$': 1}
+	grind	1	{'$': 1}
+	guarantee	1	{'that': 1}
+	guerillas	1	{'see': 1}
+	gun	1	{'in': 1}
+	gunning	1	{'fo': 1}
+	guns	4	{'they': 3, 'i': 1}
+	h	1	{'town': 1}
+	ha	1	{'$': 1}
+	had	2	{'before': 1, 'a': 1}
+	hah	8	{'hah': 4, 'let': 3, 'ah': 1}
+	haha	1	{'suckas': 1}
+	hair	1	{'game': 1}
+	haitians	1	{'$': 1}
+	half	1	{'of': 1}
+	hands	1	{'up': 1}
+	hard	2	{'but': 1, 'to': 1}
+	hardcore	1	{'$': 1}
+	has	5	{'me': 3, 'seen': 1, 'opened': 1}
+	hate	1	{'but': 1}
+	haters	3	{'can': 1, '$': 2}
+	hatin	1	{'on': 1}
+	hauld	1	{'off': 1}
+	have	5	{'you': 2, 'em': 1, 'to': 2}
+	he	3	{'told': 1, 'know': 1, 'created': 1}
+	head	6	{'16': 1, 'up': 2, 'to': 1, 'til': 1, 'once': 1}
+	heads	2	{'with': 1, '$': 1}
+	hear	3	{'this': 1, 'ya': 1, 'that': 1}
+	heard	2	{'about': 2}
+	hearts	1	{'$': 1}
+	heater	1	{'bitch': 1}
+	heey	3	{'heey': 1, '$': 2}
+	helicopters	1	{'$': 1}
+	hell	1	{'$': 1}
+	help	1	{'ya': 1}
+	heltah	1	{'skelta': 1}
+	her	8	{'know': 1, 'out': 2, 'body': 1, 'throwin': 1, 'back': 1, 'eyes': 1, '$': 1}
+	here	13	{'is': 2, 's': 1, 'to': 1, '$': 5, 'i': 1, 'gon': 1, 'ain': 1, 'here': 1}
+	hevita	3	{'esta': 3}
+	hey	31	{'305': 2, 'hey': 19, '$': 6, 'shake': 4}
+	hip	1	{'maaayn': 1}
+	hit	8	{'the': 1, 'till': 1, 'em': 5, '$': 1}
+	hoe	1	{'$': 1}
+	hoes	2	{'$': 1, 'a': 1}
+	hold	4	{'on': 1, 'em': 3}
+	holdin	1	{'back': 1}
+	holla	1	{'dammit': 1}
+	hollah	1	{'at': 1}
+	home	5	{'$': 5}
+	homie	2	{'don': 2}
+	honestly	1	{'what': 1}
+	hook	3	{'pitbull': 3}
+	hope	1	{'you': 1}
+	hopin	1	{'mami': 1}
+	hot	6	{'in': 1, 'boy': 2, 'man': 2, 'as': 1}
+	house	1	{'$': 1}
+	houston	1	{'$': 1}
+	how	17	{'to': 7, 'we': 1, 'it': 3, 'you': 3, 'i': 2, 'could': 1}
+	however	2	{'you': 2}
+	huh	4	{'huh': 2, 'muhh': 2}
+	hunger	1	{'and': 1}
+	hurt	1	{'ya': 1}
+	hustlers	1	{'be': 1}
+	i	186	{'ll': 10, 'die': 3, 'bust': 1, 've': 3, 'm': 35, 'know': 10, 'roll': 1, 'do': 5, 'go': 1, 'sold': 1, 'i': 1, 'to': 2, 'ma': 11, 's': 1, 'don': 6, 'turn': 1, '$': 2, 'ain': 1, 'got': 10, 'mma': 1, 'wanna': 11, 'need': 1, 'want': 7, 'aint': 1, 'just': 4, 'can': 5, 'feel': 1, 'fell': 1, 'get': 1, 'mean': 2, 'see': 1, 'wonder': 3, 'take': 3, 'cant': 1, 'be': 1, 'love': 2, 'told': 1, 'fuck': 1, 'rap': 1, 'mastered': 1, 'dont': 1, 'a': 2, 'gotchu': 3, 'promise': 4, 'look': 1, 'should': 1, 'could': 3, 'till': 1, 'spit': 1, 'hit': 3, 'did': 1, 'put': 2, 'live': 1, 'hope': 1, 'flip': 1, 'd': 1, 'have': 1, 'say': 1, 'pop': 1, 'was': 1}
+	ice	1	{'cream': 1}
+	if	27	{'a': 1, 'you': 15, 'it': 2, 'we': 1, 'i': 4, 'anybody': 1, 'they': 3}
+	ill	1	{'have': 1}
+	im	13	{'mr': 1, 'freaky': 1, 'feelin': 1, 'so': 2, 'blind': 1, 'lovin': 1, 'not': 2, 'at': 1, 'bouncin': 1, 'takin': 1, 'sick': 1}
+	ima	5	{'tell': 1, 'show': 1, 'hot': 2, 'have': 1}
+	imma	4	{'take': 1, 'make': 1, 'do': 1, 'be': 1}
+	importa	3	{'si': 3}
+	in	35	{'the': 14, 'due': 1, 'hell': 1, 'jail': 1, 'they': 6, 'then': 1, 'bed': 1, 'those': 1, 'this': 2, 'to': 1, 'store': 1, 'county': 1, 'my': 2, 'an': 1, 'a': 1}
+	intro	2	{'lil': 1, '$': 1}
+	is	37	{'mine': 1, 'nothing': 1, 'truth': 1, 'monsters': 1, 'a': 3, 'well': 1, 'not': 2, 'our': 1, 'running': 1, '$': 2, 'why': 1, 'what': 1, 'hey': 1, 'young': 1, 'believe': 2, 'her': 1, 'unheard': 1, 'hard': 1, 'it': 1, 'thick': 1, 'get': 1, 'dirty': 3, 'cutthroat': 1, 'now': 1, 'here': 1, 'for': 1, 'dangerous': 1, 'with': 1, 'scandalous': 1, 'you': 1}
+	issue	1	{'meng': 1}
+	it	100	{'s': 18, 'smart': 1, 'right': 2, 'all': 3, 'put': 1, 'up': 13, 'from': 2, 'aint': 1, 'on': 4, 'is': 6, 'she': 1, '4': 1, 'you': 2, '$': 11, 'baby': 1, 'wasn': 1, 'down': 1, 'makes': 1, 'would': 1, 'exactly': 1, 'to': 1, 'off': 1, 'cook': 1, 'chop': 1, 'record': 1, 'its': 1, 'll': 1, 'might': 1, 'clear': 2, 'won': 1, 'dirty': 1, 'heard': 1, 'and': 1, 'so': 1, 'i': 1, 'in': 2, 'man': 1, 'goes': 2, 'it': 1, 'over': 1, 'ain': 1, 'spit': 1, 'want': 1, 'with': 1, 'pops': 1}
+	its	7	{'like': 3, 'time': 1, 'never': 1, 'all': 1, 'called': 1}
+	ive	2	{'never': 1, 'had': 1}
+	j	6	{'$': 2, 'j': 3, 'jump': 1}
+	jail	1	{'$': 1}
+	jamaican	1	{'beer': 1}
+	jamaicans	1	{'all': 1}
+	jaw	1	{'and': 1}
+	jeans	1	{'and': 1}
+	jon	12	{'that': 1, '$': 5, 'pitbull': 1, 'heey': 1, 'd': 2, 'has': 1, 'to': 1}
+	jump	1	{'on': 1}
+	just	28	{'watch': 1, 'listen': 2, 'j': 1, 'wanna': 3, 'like': 1, 'discreet': 1, 'let': 2, 'blow': 1, 'do': 6, 'cost': 1, 'thought': 1, 'remember': 1, 'too': 2, 'an': 1, 'look': 1, 'cause': 1, 'homie': 1, 'watching': 1}
+	kanye	1	{'west': 1}
+	keep	3	{'your': 1, 'ya': 1, 'playing': 1}
+	keeps	1	{'go': 1}
+	kelly	1	{'$': 1}
+	keys	1	{'come': 1}
+	kick	1	{'in': 1}
+	kid	1	{'$': 1}
+	kill	3	{'me': 1, 'you': 1, 'em': 1}
+	killed	1	{'round': 1}
+	killers	2	{'be': 1, '$': 1}
+	killin	1	{'the': 1}
+	kind	1	{'of': 1}
+	kinda	1	{'hot': 1}
+	king	1	{'of': 1}
+	kitty	1	{'$': 1}
+	know	26	{'$': 2, 'how': 6, 'he': 1, 'what': 3, 'i': 2, 'that': 2, 'me': 1, 'you': 4, 'life': 1, 'the': 1, 'ya': 1, 'who': 1, 'exactly': 1}
+	knows	2	{'is': 1, 'i': 1}
+	l	1	{'$': 1}
+	la	4	{'ropa': 4}
+	lace	3	{'em': 3}
+	ladies	2	{'to': 1, '$': 1}
+	lady	1	{'$': 1}
+	las	1	{'pierna': 1}
+	last	3	{'thing': 3}
+	late	1	{'night': 1}
+	later	1	{'$': 1}
+	latin	1	{'rapper': 1}
+	le	2	{'nota': 2}
+	lead	1	{'$': 1}
+	leather	1	{'they': 1}
+	left	1	{'$': 1}
+	let	27	{'s': 13, 'her': 1, 'me': 11, 'loose': 1, 'an': 1}
+	lets	1	{'go': 1}
+	letting	1	{'my': 1}
+	lick	2	{'u': 1, 'you': 1}
+	lies	2	{'no': 1, 'save': 1}
+	life	3	{'is': 1, '$': 1, 'll': 1}
+	lights	1	{'they': 1}
+	like	24	{'ice': 1, 'to': 1, 'trina': 1, 'it': 3, 'a': 1, 'the': 1, 'im': 1, 'an': 1, 'i': 2, '50': 1, '9': 2, 'kanye': 1, 'ebola': 1, 'jamaican': 1, 'bacon': 1, 'silver': 1, 'helicopters': 1, 'ray': 1, 'biggie': 1, 'basktetball': 1}
+	lil	11	{'jon': 11}
+	linda	3	{'esta': 3}
+	line	1	{'$': 1}
+	listen	4	{'to': 1, 'listen': 1, 'closely': 1, '$': 1}
+	little	5	{'chico': 1, 'did': 1, 'whoozy': 1, 'something': 1, 'jon': 1}
+	live	2	{'as': 1, 'out': 1}
+	lived	1	{'it': 1}
+	lives	1	{'$': 1}
+	ll	28	{'ride': 2, 'cry': 1, 'die': 2, 'be': 4, 'give': 1, 'record': 1, 'take': 1, 'guarantee': 1, 'to': 1, 'eat': 2, 'put': 1, 'fuck': 1, 'get': 1, 'spray': 1, 'amateur': 1, '$': 2, 'niggaz': 1, 'want': 1, 'wanna': 2, 'ain': 1}
+	lo	1	{'$': 1}
+	loca	1	{'ven': 1}
+	lock	1	{'ha': 1}
+	locked	1	{'up': 1}
+	loco	1	{'ven': 1}
+	long	1	{'$': 1}
+	look	3	{'at': 2, 'in': 1}
+	looked	1	{'$': 1}
+	loose	2	{'$': 2}
+	lordd	1	{'$': 1}
+	losee	1	{'$': 1}
+	lost	1	{'cause': 1}
+	lot	2	{'$': 1, 'of': 1}
+	love	5	{'baby': 3, 'this': 2}
+	lovin	1	{'that': 1}
+	luke	2	{'that': 1, 'will': 1}
+	m	39	{'extra': 1, 'patient': 1, 'as': 1, 'next': 1, 'never': 1, 'watching': 1, 'that': 1, 'blow': 1, 'hopin': 1, 'finished': 1, 'o': 1, 'the': 1, 'freaky': 5, 'buster': 2, 'i': 4, 'from': 1, 'facing': 1, 'playing': 1, 'like': 1, 'blind': 1, 'outrunning': 1, 'just': 1, 'still': 1, 'a': 2, 'fully': 1, 'buiding': 1, 'cuban': 1, 'in': 1, 'ready': 1, 'spitting': 1}
+	ma	11	{'sell': 1, 'succeed': 1, 'make': 3, 'hit': 1, 'take': 1, 'kill': 1, 'tear': 1, 'have': 1, 'tell': 1}
+	maaayn	2	{'$': 2}
+	mad	1	{'at': 1}
+	magic	1	{'city': 1}
+	major	1	{'issue': 1}
+	make	12	{'that': 3, 'you': 1, 'ya': 1, 'it': 2, 'em': 3, 'me': 1, '$': 1}
+	makes	1	{'me': 1}
+	mami	13	{'that': 1, 'feel': 1, 'got': 1, 'then': 1, '$': 1, 'i': 1, 'whats': 1, 'you': 1, 's': 5}
+	mammi	2	{'aint': 1, 'you': 1}
+	man	30	{'i': 5, '$': 16, 'done': 1, 'you': 1, 'that': 2, 'lil': 2, 'd': 2, '4x': 1}
+	map	1	{'on': 1}
+	mark	1	{'my': 1}
+	mastered	1	{'the': 1}
+	me	73	{'i': 2, '$': 15, 'the': 2, 'now': 3, 'el': 3, 'when': 1, 'let': 3, 'see': 5, 'all': 1, 'pull': 1, 'talk': 1, 'sleezy': 1, 'what': 2, 'how': 2, 'feelin': 1, 'later': 1, 'excuse': 1, 'baby': 2, 'show': 2, 'catch': 1, 'play': 2, 'back': 1, 'a': 1, 'home': 1, 'wonder': 1, 'in': 1, 'your': 3, 'wrong': 6, 'vuelves': 1, 'why': 1, 'im': 1, 'and': 1, 'pit': 1, 'have': 1, 'know': 1}
+	mean	3	{'$': 1, 'when': 1, 'i': 1}
+	means	1	{'it': 1}
+	meneate	3	{'chica': 3}
+	meng	7	{'$': 7}
+	mention	1	{'my': 1}
+	metal	1	{'chin': 1}
+	metro	1	{'west': 1}
+	mexicana	1	{'$': 1}
+	mi	1	{'amor': 1}
+	mia	1	{'with': 1}
+	miami	5	{'i': 1, 'we': 3, 'money': 1}
+	might	5	{'just': 1, 'end': 1, 'swang': 1, 'as': 1, 'be': 1}
+	mighty	1	{'toungue': 1}
+	mind	2	{'$': 2}
+	mine	2	{'in': 1, 'im': 1}
+	mix	1	{'the': 1}
+	mma	1	{'rep': 1}
+	mo	1	{'$': 1}
+	moment	1	{'aint': 1}
+	money	5	{'money': 1, '$': 1, 'meng': 1, 'is': 1, 'you': 1}
+	monster	4	{'$': 3, 'in': 1}
+	monsters	1	{'$': 1}
+	more	11	{'drinks': 1, 'more': 2, '$': 2, 'than': 1, 'time': 2, 'warning': 1, 'money': 1, 'your': 1}
+	moree	1	{'$': 1}
+	morning	1	{'$': 1}
+	most	3	{'of': 2, '$': 1}
+	mothafuckaz	1	{'this': 1}
+	mother	1	{'teach': 1}
+	motherfucker	1	{'let': 1}
+	mouth	4	{'$': 3, 'shut': 1}
+	move	3	{'the': 1, 'what': 1, '$': 1}
+	movin	1	{'$': 1}
+	mr	1	{'however': 1}
+	muevelo	2	{'muevelo': 1, 'sin': 1}
+	muhh	2	{'one': 1, '$': 1}
+	multiply	1	{'it': 1}
+	murder	1	{'$': 1}
+	murdering	1	{'the': 1}
+	muthafucka	1	{'tonight': 1}
+	muthafucking	3	{'click': 3}
+	my	43	{'way': 1, 'city': 1, 'muthafucking': 3, 'click': 3, 'shit': 1, 'position': 1, 'part': 1, 'peoples': 6, 'words': 1, 'hustlers': 1, 'killers': 1, 'number': 1, 'chicos': 2, 'jamaicans': 1, 'blacks': 1, 'haitians': 1, 'thoughts': 1, 'breath': 1, 'mind': 1, 'fantasys': 3, 'two': 1, 'waistline': 1, 'dogg': 1, 'name': 2, 'heater': 1, 'blue': 1, 'dreams': 1, 'connects': 1, 'ear': 1, 'freind': 1}
+	myself	1	{'in': 1}
+	nail	1	{'game': 1}
+	name	2	{'i': 1, '$': 1}
+	nasty	1	{'mami': 1}
+	need	4	{'all': 1, 'to': 1, 'is': 1, 'baby': 1}
+	never	6	{'gon': 1, 'that': 1, 'had': 1, 'read': 1, 'been': 2}
+	new	3	{'jaw': 1, 'song': 1, 'south': 1}
+	next	2	{'to': 2}
+	nigga	5	{'talk': 1, 'i': 2, 'is': 1, 'that': 1}
+	niggas	1	{'that': 1}
+	niggaz	7	{'down': 1, 'been': 1, 'cocaine': 1, 'ain': 1, 'do': 1, 'better': 1, '$': 1}
+	night	5	{'is': 1, 'to': 2, 'was': 1, '$': 1}
+	no	8	{'games': 1, 'holdin': 1, 'mo': 1, 'fun': 1, 'kind': 1, 'time': 2, 'more': 1}
+	nobody	1	{'here': 1}
+	none	1	{'of': 1}
+	not	7	{'a': 4, 'be': 1, 'an': 1, 'to': 1}
+	nota	2	{'di': 1, '$': 1}
+	notch	1	{'$': 1}
+	nothing	4	{'$': 1, 'theres': 1, 'but': 1, 'pretty': 1}
+	now	16	{'$': 5, 'we': 1, 'im': 2, 'please': 1, 'step': 2, 'hold': 1, 'you': 1, 'now': 1, 'the': 1, 'that': 1}
+	number	1	{'call': 1}
+	o	1	{'$': 1}
+	obsessed	1	{'with': 1}
+	of	22	{'letting': 1, 'all': 1, 'blood': 1, 'sharks': 1, 'this': 2, 'pretty': 1, '$': 1, 'order': 1, 'war': 1, 'drinks': 1, 'these': 2, 'advice': 1, 'crack': 1, 'surprise': 1, 'y': 2, 'getting': 1, 'them': 1, 'the': 2}
+	off	9	{'the': 5, 'your': 1, 'and': 1, 'in': 1, '$': 1}
+	oh	1	{'and': 1}
+	ohh	12	{'$': 8, 'ohhh': 1, 'ohh': 3}
+	ohhh	4	{'ohhh': 2, '$': 2}
+	ol	1	{'booty': 1}
+	old	1	{'school': 1}
+	on	24	{'the': 10, 'lock': 1, 'it': 1, 'e': 1, 'me': 1, '$': 2, 'one': 1, 'you': 2, 'ya': 1, 'us': 1, 'them': 1, 'this': 1, 'your': 1}
+	once	3	{'we': 1, 'again': 2}
+	one	9	{'pitbull': 1, 'second': 1, 'below': 1, 'to': 1, '$': 2, 'more': 2, 'of': 1}
+	only	1	{'the': 1}
+	ooh	2	{'shake': 2}
+	open	1	{'mouth': 1}
+	opened	1	{'the': 1}
+	opinion	1	{'$': 1}
+	or	9	{'die': 1, 'shake': 1, 'paint': 1, 'would': 3, 'drop': 1, 'for': 1, 'better': 1}
+	order	1	{'$': 1}
+	other	1	{'city': 1}
+	our	1	{'lives': 1}
+	out	11	{'and': 2, 'maaayn': 1, 'this': 2, 'the': 1, 'of': 1, '$': 3, 'my': 1}
+	outro	1	{'lil': 1}
+	outrunning	1	{'y': 1}
+	outta	2	{'texas': 1, 'yo': 1}
+	over	9	{'shit': 1, 'these': 1, '$': 1, 'this': 2, 'dawg': 1, 'ya': 1, 'looked': 1, 'cooked': 1}
+	oye	1	{'loca': 1}
+	p	2	{'to': 1, 'rr': 1}
+	pa	2	{'ca': 1, 'to': 1}
+	paca	1	{'mi': 1}
+	pain	2	{'$': 2}
+	paint	2	{'you': 1, 'and': 1}
+	papo	1	{'just': 1}
+	paradise	1	{'$': 1}
+	paramedics	1	{'gon': 1}
+	parar	1	{'$': 1}
+	park	1	{'$': 1}
+	part	1	{'$': 1}
+	partna	1	{'just': 1}
+	parts	1	{'i': 1}
+	patient	1	{'man': 1}
+	peel	1	{'ya': 1}
+	peoples	6	{'$': 4, 'that': 1, 'is': 1}
+	pero	3	{'que': 3}
+	peter	1	{'$': 1}
+	petty	1	{'i': 1}
+	pictures	1	{'$': 1}
+	pierna	1	{'y': 1}
+	piss	1	{'$': 1}
+	pit	6	{'to': 1, 's': 4, 'db': 1}
+	pitbull	19	{'$': 8, 'nigga': 1, 'lil': 3, '2x': 1, 'bun': 1, 'd': 2, 's': 1, 'don': 1, 'db': 1}
+	place	1	{'is': 1}
+	plan	1	{'it': 1}
+	play	7	{'my': 2, 'these': 1, 'with': 4}
+	played	1	{'it': 1}
+	playin	2	{'ohh': 2}
+	playing	2	{'fo': 1, 'with': 1}
+	please	2	{'me': 1, 'let': 1}
+	pool	1	{'of': 1}
+	pop	1	{'up': 1}
+	popping	1	{'than': 1}
+	pops	1	{'off': 1}
+	position	1	{'$': 1}
+	pound	3	{'that': 3}
+	praising	1	{'the': 1}
+	prepared	1	{'to': 1}
+	pretty	5	{'pictures': 1, 'hoes': 1, 'kitty': 1, 'titties': 1, '$': 1}
+	price	1	{'on': 1}
+	pride	1	{'that': 1}
+	pro	2	{'one': 1, '$': 1}
+	promise	4	{'$': 3, 'i': 1}
+	prone	1	{'to': 1}
+	proper	1	{'$': 1}
+	prove	1	{'you': 1}
+	pull	8	{'up': 7, 'a': 1}
+	pulled	1	{'$': 1}
+	pump	1	{'lead': 1}
+	pussy	3	{'bitch': 2, 'niggaz': 1}
+	put	7	{'the': 2, 'your': 1, 'it': 3, 'that': 1}
+	que	11	{'si': 1, 'rica': 3, 'importa': 3, 'te': 3, 'vuelta': 1}
+	quiere	3	{'que': 3}
+	quitate	4	{'la': 4}
+	r	1	{'$': 1}
+	rap	3	{'hardcore': 1, 'game': 1, '$': 1}
+	rapper	1	{'from': 1}
+	rather	1	{'die': 1}
+	ray	1	{'charles': 1}
+	re	8	{'up': 2, 'done': 1, 'off': 1, 'dirty': 3, 'just': 1}
+	read	1	{'the': 1}
+	ready	9	{'for': 4, 'to': 1, 'mothafuckaz': 1, '$': 2, 'niggaz': 1}
+	real	1	{'game': 1}
+	really	10	{'can': 10}
+	reckless	1	{'pa': 1}
+	record	2	{'her': 1, 'it': 1}
+	red	1	{'stripes': 1}
+	relax	1	{'$': 1}
+	remember	3	{'$': 2, 'my': 1}
+	rep	2	{'til': 1, 'mia': 1}
+	repeat	9	{'4x': 1, '2x': 6, '12x': 1, '3x': 1}
+	respect	1	{'$': 1}
+	rica	6	{'tiene': 3, 'chiquita': 3}
+	rich	1	{'$': 1}
+	ride	3	{'for': 2, '$': 1}
+	right	7	{'i': 1, '$': 5, 'about': 1}
+	rip	2	{'it': 2}
+	road	1	{'rep': 1}
+	robbery	1	{'lick': 1}
+	roll	7	{'for': 1, 'your': 1, 'up': 1, 'out': 1, 'em': 3}
+	rollin	1	{'back': 1}
+	room	2	{'keys': 1, 'and': 1}
+	rooms	1	{'spinnin': 1}
+	ropa	4	{'quitate': 1, '$': 2, 'si': 1}
+	round	2	{'your': 1, 'here': 1}
+	rp	3	{'2x': 3}
+	rr	5	{'rr': 3, 'rringing': 1, 'rrat': 1}
+	rrat	1	{'$': 1}
+	rringing	1	{'$': 1}
+	rules	1	{'everything': 1}
+	run	3	{'things': 1, 'in': 1, 'when': 1}
+	running	2	{'from': 1, 'gunning': 1}
+	s	65	{'that': 2, 'all': 2, 'do': 1, 'why': 5, 'locked': 1, 'and': 2, '$': 2, 'how': 1, 'is': 1, 'ride': 1, 'show': 1, 'gon': 3, 'go': 10, 'my': 1, 'off': 1, 'right': 2, 'out': 1, 'getting': 1, 'time': 4, 'a': 3, 'fold': 1, 'walk': 1, 'dirty': 3, 'get': 1, 'filled': 1, 'saying': 4, 'just': 1, 'hard': 1, 'co': 1, 'over': 2, 'it': 1, 'whatever': 1, 'exactly': 1, 'the': 1}
+	same	4	{'$': 1, 'time': 1, 'thang': 1, 'shit': 1}
+	save	1	{'em': 1}
+	say	4	{'god': 2, 'about': 1, 'to': 1}
+	saying	4	{'dammit': 2, 'duh': 2}
+	scandalous	1	{'$': 1}
+	scared	1	{'nigga': 1}
+	school	1	{'chevys': 1}
+	second	1	{'$': 1}
+	see	14	{'you': 7, 'me': 1, 'then': 1, 'ya': 1, 'dem': 1, 'none': 1, 'the': 1, 'what': 1}
+	seen	2	{'it': 1, '$': 1}
+	sell	2	{'like': 1, 'you': 1}
+	send	1	{'em': 1}
+	serve	1	{'ya': 1}
+	set	1	{'that': 1}
+	seven	4	{'duece': 1, 'trey': 1, 'four': 1, 'five': 1}
+	shake	11	{'that': 5, 'it': 5, '$': 1}
+	sharks	1	{'$': 1}
+	shave	1	{'hey': 1}
+	she	1	{'s': 1}
+	shit	15	{'watch': 1, 'go': 1, '$': 6, 'hey': 4, 'on': 2, 'the': 1}
+	shoot	1	{'you': 1}
+	shop	1	{'it': 1}
+	shorty	5	{'cuz': 5}
+	shots	1	{'$': 1}
+	should	1	{'make': 1}
+	show	6	{'em': 1, 'you': 5}
+	shut	2	{'$': 1, 'shit': 1}
+	si	8	{'esa': 1, 'tiene': 3, 'tu': 3, 'estas': 1}
+	sick	1	{'like': 1}
+	signs	1	{'$': 1}
+	silver	1	{'back': 1}
+	sin	1	{'parar': 1}
+	since	1	{'them': 1}
+	singing	1	{'the': 1}
+	single	1	{'whatever': 1}
+	sit	1	{'home': 1}
+	skelta	1	{'talking': 1}
+	skies	2	{'and': 2}
+	skip	1	{'the': 1}
+	slanging	1	{'them': 1}
+	sleezy	1	{'baby': 1}
+	slip	1	{'off': 1}
+	slow	1	{'$': 1}
+	smart	1	{'$': 1}
+	smash	1	{'grabs': 1}
+	smell	1	{'you': 1}
+	smoke	4	{'em': 3, 'outta': 1}
+	so	15	{'call': 1, 'fucked': 1, 'caught': 1, 'if': 1, 'hot': 1, 'get': 2, 'watch': 1, 'we': 1, 'that': 1, 'how': 1, 'vivid': 1, 'all': 1, 'bring': 1, 'stop': 1}
+	sold	1	{'it': 1}
+	soldier	1	{'$': 1}
+	sole	1	{'on': 1}
+	some	10	{'dumb': 1, 'of': 2, 'pretty': 1, 'more': 1, 'undefeated': 2, 'time': 1, 'moree': 1, 'we': 1}
+	someones	1	{'gonna': 1}
+	something	1	{'$': 1}
+	song	1	{'thats': 1}
+	soon	1	{'as': 1}
+	sound	1	{'of': 1}
+	south	4	{'$': 4}
+	spin	1	{'like': 1}
+	spinnin	1	{'and': 1}
+	spit	7	{'fire': 1, 'they': 1, 'it': 5}
+	spitting	1	{'meng': 1}
+	spray	1	{'about': 1}
+	spraying	1	{'them': 1}
+	sprung	1	{'$': 1}
+	squeezed	1	{'they': 1}
+	st	2	{'stop': 2}
+	start	1	{'shit': 1}
+	step	2	{'to': 2}
+	steps	1	{'back': 1}
+	still	1	{'underpaid': 1}
+	stockade	1	{'$': 1}
+	stop	6	{'$': 2, 'playin': 2, 'cause': 1, 'asking': 1}
+	store	1	{'$': 1}
+	straight	2	{'out': 1, 'up': 1}
+	strangers	1	{'$': 1}
+	street	1	{'sweepers': 1}
+	streets	4	{'follow': 1, 'll': 1, 'is': 1, 'not': 1}
+	stripes	1	{'$': 1}
+	strong	1	{'survive': 1}
+	succeed	1	{'i': 1}
+	suckas	1	{'$': 1}
+	suga	2	{'check': 2}
+	surprise	1	{'$': 1}
+	survive	1	{'$': 1}
+	swallow	1	{'me': 1}
+	swang	1	{'up': 1}
+	sweepers	1	{'we': 1}
+	t	55	{'t': 1, 'to': 1, 's': 1, 'fuck': 12, 'even': 1, 'got': 1, 'worry': 1, 'be': 4, 'for': 1, 'care': 16, 'follow': 1, 'want': 2, 'tryna': 1, 'believe': 1, 'see': 1, 'ready': 2, 'plan': 1, 'try': 1, 'your': 1, 'mean': 1, 'nothing': 1, 'mention': 1, 'make': 1, 'understand': 1}
+	take	14	{'over': 2, 'it': 3, 'you': 4, 'me': 2, 'the': 1, 'advantage': 1, 'a': 1}
+	taken	1	{'here': 1}
+	takin	4	{'like': 1, 'em': 1, 'over': 1, 'it': 1}
+	talk	4	{'shit': 1, 'wit': 1, 'to': 2}
+	talking	2	{'bout': 1, 'all': 1}
+	tan	6	{'linda': 3, 'rica': 3}
+	taste	1	{'your': 1}
+	taught	1	{'proper': 1}
+	te	3	{'coma': 3}
+	teach	3	{'me': 1, 'you': 2}
+	tear	1	{'the': 1}
+	technique	1	{'$': 1}
+	tell	10	{'you': 3, 'me': 5, 'by': 2}
+	texas	1	{'the': 1}
+	tgk	1	{'metro': 1}
+	than	2	{'365': 1, '$': 1}
+	thang	5	{'bounce': 1, 'shake': 1, 'clap': 1, 'break': 1, '$': 1}
+	thangs	5	{'down': 1, 'that': 1, '$': 3}
+	that	68	{'little': 2, 's': 13, 'i': 4, 'man': 3, 'monster': 1, 'nigga': 1, 'motherfucker': 1, 'you': 3, 'dirty': 1, 'thing': 1, 'they': 1, 'shit': 4, '$': 4, 'ur': 1, 'thang': 4, 'll': 4, 'means': 1, 'youve': 1, 'twat': 3, 'when': 1, 'half': 1, 'up': 1, 'these': 1, 'underrated': 1, 'throne': 1, 'new': 1, 'bread': 1, 'wanna': 1, 'there': 1, 'one': 1, 'get': 1, 'money': 2, 'blakah': 1}
+	thats	5	{'why': 1, 'in': 1, 'whats': 1, 'how': 2}
+	the	130	{'grind': 1, 'head': 2, '9': 1, 'game': 2, 'most': 1, 'strong': 1, 'weed': 2, 'x': 2, 'blow': 1, 'i': 1, 't': 1, 'b': 1, 'u': 1, 'l': 1, 'who': 1, 'click': 1, 'south': 3, 'gun': 1, 'wanna': 1, 'block': 1, 'glock': 1, 'cops': 1, 'top': 1, 'flow': 1, 'ladies': 1, 'danceflo': 1, 'club': 4, 'bar': 2, 'same': 4, 'pain': 1, 'day': 1, 'ass': 1, 'chain': 2, 'glass': 1, 'flip': 1, 'hip': 1, 'night': 2, 'way': 3, 'rooms': 1, 'moment': 1, 'room': 1, 'cage': 1, 'right': 1, 'left': 1, 'chico': 1, 'one': 2, 'waist': 1, 'time': 2, 'real': 1, 'blues': 1, 'wall': 1, 'lordd': 1, 'floor': 7, 'morning': 1, 'vodka': 1, 'cris': 1, 'book': 1, 'art': 1, 'crip': 1, 'e': 1, 'games': 1, 'bottom': 2, 'dirty': 1, 'coke': 1, 'magic': 1, 'bridge': 1, 'streets': 3, 'signs': 1, 'last': 1, 'smash': 1, 'map': 1, 'dash': 1, 'traffic': 1, 'drop': 3, 'reckless': 1, 'deltas': 1, 'place': 1, 'smoke': 1, 'bullets': 1, 'road': 1, 'fuck': 2, 'kid': 1, 'fact': 1, 'back': 2, 'underground': 1, 'hunger': 1, 'door': 1, 'shit': 1, 'price': 1, 'more': 2, 'cut': 1, 'sound': 1, 'chopper': 1, 'devil': 1, 'fucks': 1, 'first': 1, 'king': 1}
+	them	12	{'chico': 1, 'boys': 1, 'freaks': 1, 'mami': 4, 'things': 1, 'thangs': 4}
+	then	9	{'let': 2, 'i': 3, 'you': 1, 'hurt': 1, 'peel': 1, 'why': 1}
+	there	1	{'is': 1}
+	theres	1	{'always': 1}
+	these	15	{'bitches': 2, 'niggas': 1, 'drinks': 1, 'haters': 1, 'women': 1, 'busta': 1, 'mami': 1, 'cats': 1, 'blue': 2, 'boys': 1, 'streets': 1, 'niggaz': 1, 'bustas': 1}
+	they	33	{'hearts': 1, 'respect': 1, 'door': 1, 'house': 1, 'spit': 1, 'mouth': 3, 'murdering': 1, 'know': 1, 'kill': 1, 'can': 1, 'told': 1, 'ready': 1, 'might': 1, 'blink': 1, 'don': 3, 'lace': 3, 'hold': 3, 'clean': 3, 'spin': 1, 'make': 1, 're': 1, 'll': 1, 'they': 1}
+	thick	1	{'from': 1}
+	thighs	1	{'like': 1}
+	thing	5	{'you': 2, 'and': 1, 'i': 1, 'is': 1}
+	things	5	{'$': 2, 'to': 1, 'get': 1, 'go': 1}
+	think	8	{'they': 1, '$': 1, 'you': 2, 'again': 1, 'paradise': 1, 'what': 1, 'the': 1}
+	thinks	1	{'they': 1}
+	this	31	{'my': 1, 'game': 3, 'for': 1, 'here': 2, 'up': 1, 'chico': 2, 'mighty': 1, 'out': 2, 'gonna': 2, 'muthafucka': 1, 'a': 1, 'fine': 1, '$': 2, 'thing': 1, 'bitch': 2, 'is': 2, 'city': 1, 'cuban': 1, 'one': 2, 'that': 1, 'shit': 1}
+	those	5	{'jeans': 1, 'body': 1, 'things': 2, 'who': 1}
+	thought	2	{'i': 1, 'couldn': 1}
+	thoughts	1	{'mami': 1}
+	three	1	{'$': 1}
+	threw	1	{'$': 1}
+	throne	1	{'$': 1}
+	throwin	1	{'her': 1}
+	thug	1	{'out': 1}
+	tiene	9	{'tremendo': 9}
+	tienes	3	{'tremendo': 3}
+	tight	1	{'word': 1}
+	til	5	{'the': 1, 'you': 4}
+	till	4	{'i': 3, 'it': 1}
+	time	16	{'$': 3, 'for': 4, 'it': 2, 'let': 1, 'to': 2, 'in': 1, 'is': 1, 'whoo': 2}
+	tired	1	{'of': 1}
+	titties	1	{'$': 1}
+	to	75	{'play': 5, 'war': 2, 'the': 15, 'blow': 2, 'cross': 1, 'dot': 1, 'take': 2, 'my': 2, 'hit': 1, 'set': 1, 'a': 1, 'feel': 1, 'me': 1, 'sell': 1, 'remember': 2, 'mine': 1, 'ecstasy': 1, 'teach': 1, 'get': 4, 'touch': 1, 'extacyy': 1, 'know': 1, 'slip': 1, 'toe': 1, 'turn': 1, 'losee': 1, 'broad': 1, 'wall': 1, 'thug': 1, 'fuck': 1, 'houston': 1, 'your': 1, 'stop': 1, 'be': 1, 'click': 1, 'understand': 1, 'sit': 1, 'pump': 1, 'talk': 1, 'strangers': 1, 'do': 3, 'shit': 2, 'myself': 1, 'cop': 1, 'bounced': 1, 'that': 1}
+	toda	3	{'$': 3}
+	toe	1	{'$': 1}
+	toes	1	{'$': 1}
+	toess	1	{'$': 1}
+	told	4	{'me': 2, 'you': 1, 'ya': 1}
+	toma	2	{'$': 2}
+	tonight	2	{'$': 1, 'ladies': 1}
+	too	3	{'long': 1, 'petty': 1, 'deadly': 1}
+	top	1	{'$': 1}
+	touch	3	{'your': 1, 'me': 2}
+	toungue	1	{'heey': 1}
+	town	1	{'pitbull': 1}
+	traffic	1	{'lights': 1}
+	treat	1	{'to': 1}
+	tremendo	12	{'culo': 12}
+	trey	1	{'seven': 1}
+	trina	1	{'and': 1}
+	trippin	1	{'for': 1}
+	truth	1	{'$': 1}
+	try	1	{'to': 1}
+	trying	2	{'to': 2}
+	tryna	1	{'feel': 1}
+	tu	4	{'quiere': 3, 'me': 1}
+	turn	2	{'it': 1, 'you': 1}
+	twat	3	{'dirty': 3}
+	two	2	{'pitbull': 1, 'boys': 1}
+	tyson	2	{'pussy': 2}
+	u	3	{'double': 1, 'can': 1, '$': 1}
+	uncle	2	{'luke': 2}
+	undefeated	2	{'tyson': 2}
+	undercover	1	{'bite': 1}
+	underdog	1	{'killin': 1}
+	underground	1	{'$': 1}
+	underpaid	1	{'$': 1}
+	underrated	1	{'underdog': 1}
+	understand	2	{'why': 1, '$': 1}
+	understatement	1	{'$': 1}
+	unheard	1	{'of': 1}
+	until	1	{'that': 1}
+	up	50	{'in': 6, '$': 15, 'a': 1, 'the': 2, 'to': 3, 'for': 1, 'all': 1, 'wait': 1, 'i': 2, 'its': 1, 'with': 1, 'clapping': 1, 'outta': 1, 'on': 1, 'dammit': 1, 'wet': 2, 'get': 2, 'thats': 2, 'flip': 2, 'rip': 2, 'give': 1, 'both': 1}
+	ur	2	{'girls': 1, 'a': 1}
+	us	20	{'and': 1, 'for': 1, 'what': 8, '$': 10}
+	ve	3	{'been': 1, 'done': 1, 'played': 1}
+	ven	2	{'pa': 1, 'paca': 1}
+	verse	9	{'one': 1, '1': 3, '2': 3, '3': 2}
+	verts	1	{'and': 1}
+	vesre	1	{'two': 1}
+	vicious	1	{'like': 1}
+	vivid	1	{'you': 1}
+	vodka	1	{'skip': 1}
+	vuelta	1	{'$': 1}
+	vuelves	1	{'loco': 1}
+	waist	1	{'line': 1}
+	waistline	1	{'singing': 1}
+	wait	3	{'up': 2, 'to': 1}
+	waitin	2	{'for': 2}
+	waiting	1	{'for': 1}
+	wake	1	{'up': 1}
+	walk	2	{'in': 2}
+	wall	3	{'$': 2, 'to': 1}
+	wanna	23	{'swallow': 1, 'hollah': 1, 'be': 6, 'freak': 1, 'show': 2, 'do': 4, 'get': 2, 'make': 1, 'see': 1, 'explore': 1, 'move': 1, 'bump': 1, 'start': 1}
+	want	20	{'you': 7, 'me': 4, 'it': 5, 'some': 1, 'those': 1, 'beef': 1, '$': 1}
+	war	4	{'with': 1, '$': 2, 'over': 1}
+	warning	1	{'ya': 1}
+	was	2	{'good': 1, 'taught': 1}
+	wasn	1	{'t': 1}
+	watch	4	{'my': 1, '$': 1, 'where': 1, 'how': 1}
+	watching	2	{'the': 1, 'thangs': 1}
+	way	5	{'of': 1, 'you': 2, 'wild': 1, 'holla': 1}
+	we	49	{'can': 4, 'gotta': 1, 'do': 4, 'need': 1, 'go': 1, 'always': 1, 're': 5, 'finish': 1, 'were': 1, 'gon': 1, 'fry': 1, 'pull': 3, 'pound': 3, 'make': 2, 'finna': 1, 'call': 3, 'don': 10, 'tired': 1, 'about': 4, 'we': 1}
+	wearin	1	{'her': 1}
+	weed	2	{'to': 1, '$': 1}
+	well	2	{'equipped': 1, 'be': 1}
+	were	1	{'to': 1}
+	west	2	{'$': 1, 'and': 1}
+	wet	2	{'em': 2}
+	wetter	1	{'$': 1}
+	what	35	{'where': 1, 'it': 3, 'you': 5, '$': 9, 'i': 7, 'is': 1, 'cha': 2, 'they': 1, 'a': 1, 'fuck': 2, 'y': 1, 'ya': 1, 'we': 1}
+	whatever	3	{'$': 1, 'man': 1, 'ya': 1}
+	whats	3	{'up': 2, 'never': 1}
+	when	18	{'they': 1, 'you': 5, 'i': 6, 'we': 1, 'its': 1, 'everything': 1, 'the': 1, 'those': 1, 'them': 1}
+	where	8	{'s': 1, 'them': 1, 'a': 1, 'you': 1, 'they': 3, 'the': 1}
+	who	7	{'cares': 1, 'what': 1, 'didn': 1, 'it': 1, 'you': 2, 'the': 1}
+	whoo	3	{'$': 3}
+	whoozy	1	{'its': 1}
+	why	12	{'i': 5, 'they': 1, 's': 1, 'it': 1, 'stop': 1, 'its': 1, 'you': 1, 'are': 1}
+	wild	1	{'and': 1}
+	will	1	{'tell': 1}
+	wit	4	{'us': 1, 'your': 1, 'red': 1, 'nothing': 1}
+	with	45	{'my': 4, 'they': 1, 'a': 4, 'that': 1, 'these': 1, 'murder': 1, 'your': 2, 'you': 1, 'me': 2, 'the': 2, 'ya': 1, 'old': 1, 'crooked': 2, 'pride': 1, 'us': 18, 'this': 1, 'it': 2}
+	women	1	{'i': 1}
+	won	1	{'t': 1}
+	wonder	4	{'if': 4}
+	word	2	{'$': 1, 'of': 1}
+	words	1	{'i': 1}
+	worry	1	{'bout': 1}
+	would	14	{'you': 13, 'be': 1}
+	wrong	7	{'would': 3, '$': 3, 'teach': 1}
+	x	2	{'$': 1, 'to': 1}
+	x2	2	{'$': 2}
+	x4	1	{'$': 1}
+	y	17	{'meneate': 3, 'dale': 1, 'all': 13}
+	ya	31	{'ll': 9, '$': 9, 'so': 1, 'head': 1, 'mind': 1, 'life': 1, 'ass': 1, 'then': 1, 'nobody': 1, 'see': 1, 'hear': 1, 'know': 1, 'for': 1, 'or': 1, 'feel': 1}
+	yall	6	{'might': 1, 'really': 5}
+	yeah	10	{'yeah': 5, 'lets': 1, '$': 3, 'once': 1}
+	yeahh	1	{'$': 1}
+	yo	8	{'ass': 2, 'life': 1, 'eyes': 1, 'lies': 1, 'clique': 1, 'crew': 1, 'bitch': 1}
+	you	149	{'run': 1, 'wit': 1, 'ready': 1, 'burning': 1, 'wanna': 3, 'got': 10, 'like': 6, 'feel': 1, 'need': 2, 're': 2, 'do': 2, 'touch': 1, 'shave': 1, 'some': 3, 'aint': 6, '$': 9, 'want': 9, 'gotta': 3, 'ooh': 2, 'my': 1, 'can': 3, 'think': 4, 'dreams': 1, 'shake': 2, 'sole': 1, 'how': 1, 'a': 1, 'get': 3, 'act': 1, 'to': 3, 'waiting': 1, 'll': 1, 'know': 6, 'single': 1, 'youre': 1, 'take': 1, 'home': 3, 'give': 4, 'fufill': 3, 'just': 6, 'better': 3, 'tight': 1, 'wetter': 1, 'hear': 2, 'fed': 1, 'from': 1, 'explodeee': 1, 'cum': 1, 'girl': 1, 'out': 1, 'what': 1, 'say': 3, 'fast': 1, 'everything': 1, 'going': 1, 'wake': 1, 'put': 1, 'for': 1, 'pussy': 1, 'wrong': 1, 'hoes': 1, 'scared': 1, 'see': 1, 'don': 1, 'both': 1, 'in': 1, 'are': 1, 'might': 1, 'make': 1, 'trying': 1, 'shoot': 1, 'the': 1}
+	young	1	{'and': 1}
+	your	27	{'toes': 1, 'ass': 8, 'hands': 1, 'clothes': 2, 'pretty': 2, 'love': 3, 'head': 1, 'toess': 1, 'eyes': 1, 'fear': 1, 'way': 1, 'car': 1, 'chips': 1, 'mother': 1, 'crew': 1, 'prone': 1}
+	youre	1	{'trying': 1}
+	youve	2	{'$': 1, 'got': 1}
